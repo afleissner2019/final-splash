@@ -1,0 +1,228 @@
+.heading {
+    display: none;
+    justify-content: center;
+    
+}
+
+.header-nav ul, .header-icon ul {
+    display: none; 
+     
+}
+
+
+
+.header-nav ul {
+    justify-content: none;
+
+}
+
+/* Estore Heading */
+.estore {
+    height: 100px;
+    display: flex;
+
+}
+.navestore ul {
+    display: none;
+    
+}
+.navestore {
+    display: none;
+
+}
+
+
+.estore-hot, .input-search, .input-button {
+    display: none;
+
+}
+.estore-icons {
+    display: none;
+}
+
+.estore-icons .estore-sign-in {
+    display: none;
+}
+
+/* Winter Collection */
+.winter-collection-bg {
+    background-size: 30%; 
+    height: 500px;
+
+}
+.winter-collection-discount {
+    background-size: 60%;  
+    overflow-x: hidden;
+    padding-right: auto;
+}
+.winter-collection-sidetext {
+    text-align: left;
+    /* margin-left: 100px; */
+    margin-top: 40px;
+    margin-right: -100px;
+    height: 600px;
+   
+}
+
+.winter-collection-sidetext h1 {
+    font-size: 20px;
+}
+.winter-collection-wc {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 40px;
+
+}
+
+/* Shop Category */
+
+.shop-category-main {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.winter-cloth-main, .mans-cloth-main {
+    margin-top: -190px;
+}
+.winter-cloth-discount-parag {
+    margin-right: 90px;
+    margin-top: 0;
+   
+}
+
+.mans-cloth-parag {
+    float: right;
+    top: 0px;
+    left: -250px;
+}
+
+/* Latest Products */
+.latest-products-area {
+    display: flex;
+}
+.latest-products-word {
+    text-align: left;
+}
+/* Latest Products Clothing */
+
+.first-clothing  {
+    flex-wrap: wrap;
+}
+
+/* Find Best Product */
+
+.find-best-product-image {
+    display: none;
+}
+
+/* Best Collection */
+
+.best-collection-img {
+    display: none;
+
+}
+.best-collectionbest-collection-img {
+    padding-top: 100px;
+
+}
+
+.best-collection-heading {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.best-collection-right {
+    justify-content: center;
+    align-self: center;
+}
+    
+.menz-winter, .menz-winter3 {
+    font-size: 15px;
+    text-align: left;
+
+
+}
+
+ul .menz-winter2  {
+    font-size: 15px;
+    padding: 20px;
+}
+
+/* Get Our Latest Offers */
+
+.latest-offer-man-pix {
+    display: none;
+}
+
+.latest-offer-news {
+    font-size: 40px;
+}
+
+.latest-offer-man {
+    padding-top: 70px;
+    padding-left: 30px;
+
+}
+
+/* Shipping Payment System */
+
+.method  {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 50px 40px;
+    
+}
+
+.payment {
+    padding-left: 30px;
+}
+
+.system {
+    padding-top: 50px;
+}
+
+/* Models */
+
+.models {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+/* First Footer */
+
+.first-footer {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 10px;
+    
+
+}
+.new-products, .support {
+    flex-direction: row;
+    align-self: flex-start;
+    text-align: left;
+    
+}
+
+.new-products ul li {
+    position: relative;
+    left: -80px;    
+}
+
+/* Final Footer */
+.final-footer  {
+    height: 150px;
+    padding-bottom: 100px;
+}
+
+.final-footer-text {
+    width: 400px;
+    line-height: 30px;
+    font-size: 20px;
+    justify-content: left;
+    margin-left: -70px;
+
+}

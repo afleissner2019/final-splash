@@ -1,0 +1,280 @@
+/* Winter Collection */
+
+.winter-collection-sidetext {
+    margin-left: 5px;
+    /* padding-left: 10px; */
+    width: 400px;
+    
+}
+
+.winter-collection-discount {
+    background: none;
+      
+}
+
+/* Shop Category */
+
+.shop-category-main {
+    display: flex;
+}
+.shop-category, h2 {
+    font-size: 40px;
+}
+
+.shop-category-owmen img {
+    height: 250px;
+    width: 300px;
+    margin-left: 0px;
+    margin-bottom: 250px;
+    float: none;
+}
+
+.shop-category-owmen-parag {
+    width: 300px;
+    height: 200px;
+    top: 30px;
+    left: -170px;
+}
+
+.shop-category-owmen-parag .shop-category-owmen-parag1 {
+    font-size: 25px;
+}
+
+
+.shop-category-owmen-parag .shop-category-owmen-parag3 {
+    font-size: 20px;
+}
+
+.winter-cloth-main img {
+    height: 250px;
+    width: 400px;
+    margin-left: 0px;
+    margin-top: -30px;
+    
+
+}
+
+.winter-cloth-discount-parag {
+    position: relative;
+    margin-right: -50px;
+    position: relative;
+    top: -200px;
+    left: -80px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.winter-cloth-discount-parag .winter-cloth-parag1 {
+    font-size: 20px;
+}
+.winter-cloth-discount-parag .winter-cloth-parag2  {
+    font-size: 30px;
+
+}
+
+.mans-cloth-main img {
+    height: 250px;
+    width: 400px;
+    margin-left: 0px;
+
+}
+
+.mans-cloth-parag {
+    float: right;
+    position: relative;
+    top: -200px;
+    left: -1px;
+}
+
+.mans-cloth-parag .mans-cloth-parag1 {
+    font-size: 30px;
+}
+
+.mans-cloth-parag .mans-cloth-parag3 {
+    font-size: 20px;
+}
+
+/* Latest Products */
+
+.latest-products-word {
+    font-size: 35px;
+    margin-top: -250px;
+    margin-bottom: 300px;
+}
+
+.latest-products-nav ul li {
+    display: inline;
+    padding-right: 20px;
+    left: 40px;
+  
+}
+
+.latest-products-nav {
+    margin-top: -400px;
+    padding-bottom: 200px;
+}
+
+.latest-products-line {
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    text-align: left;
+}
+
+/* Latest Products Clothing */
+
+.first-clothing {
+    margin-top: -100px;
+   
+}
+
+/* Find Best Product */
+
+.find-best-header {
+    font-size: 30px;
+}
+
+.designer {
+    line-height: 30px;
+}
+
+.find-best-product-heading {
+    height: 450px;
+    margin-top: 100px;
+}
+
+/* Best Collection */
+
+.best-collection-text {
+    margin-top: -200px;
+    position: relative;
+    left: 50px;
+    
+
+}
+
+
+.best-collection-left img {
+    display: none;
+
+}
+
+.best-collection-right {
+    top: 200px;
+    left: -100px;
+    padding: 0 70px;
+    flex-direction: column;
+}
+
+
+.menz-winter {
+    position: relative;
+    left: -100px;
+    top: 80px;
+   
+    
+}
+
+.menz-winter2 {
+    position: relative;
+    top: 80px;
+    left: -100px;
+    padding: 50px;
+}
+
+.menz-winter3 {
+    position: relative;
+    left: -100px;
+    top: 80px;
+
+}
+
+/* Get Our Latest Offers */
+
+.latest-offer-bg {
+    height: 500px;
+    position: relative;
+    top: 100px;
+    margin: 0 5px;
+    
+
+}
+
+.latest-offer-man {
+    flex-direction: column;
+      
+}
+
+.latest-offer-email {
+    align-items: flex-start;
+    align-self: center;
+    margin-top: 20px;
+    
+}
+
+/* Shipping Payment System */
+
+.method {
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 90px;
+    position: relative;
+    left: -80px;
+    
+}
+.payment {
+    position: relative;
+    left: -30px;
+
+}
+
+/* Models */
+.models img {
+    height: 200px;
+    width: 200px;
+}
+
+/* First Footer */
+.first-footer ul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+
+    
+}
+
+.quick-links {
+    /* outline: dotted black; */
+    position: relative;
+    left: -90px;
+   
+}
+
+.new-products {
+    position: relative;
+    left: -20px;
+    top: -100px;
+}
+
+.support {
+    position: relative;
+    left: -90px;
+    top: -200px;
+}
+
+/* Final Footer */
+.final-footer {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -300px;
+}
+
+.final-footer-icons i {
+    padding-top: 50px;
+    position: relative;
+    left: -40px;
+}
